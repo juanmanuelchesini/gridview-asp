@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo-web-gridview", "ejemplo-web-gridview\ejemplo-web-gridview.csproj", "{0E9940A4-526F-4F3B-A9B6-5E6ED7D29E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{34FE6EC7-635E-464D-ACB0-142965636247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9940A4-526F-4F3B-A9B6-5E6ED7D29E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9940A4-526F-4F3B-A9B6-5E6ED7D29E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9940A4-526F-4F3B-A9B6-5E6ED7D29E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9940A4-526F-4F3B-A9B6-5E6ED7D29E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FE6EC7-635E-464D-ACB0-142965636247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FE6EC7-635E-464D-ACB0-142965636247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FE6EC7-635E-464D-ACB0-142965636247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FE6EC7-635E-464D-ACB0-142965636247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65CAD81B-3EFC-4142-9FB5-69477FEC895E}
+	EndGlobalSection
+EndGlobal
